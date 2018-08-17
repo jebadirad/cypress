@@ -1,0 +1,17 @@
+{
+  "name": "cypress-demo",
+  "version": "1.0.0",
+  "description": "demo out cypress ",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "JonDavid Ebadirad",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.4.0"
+  },
+  "devDependencies": {
+    "cypress": "^3.1.0"
+  }
+}
